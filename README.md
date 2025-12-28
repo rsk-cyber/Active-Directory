@@ -25,4 +25,10 @@ Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-*Ref 1: Network Diagram*
+*Ref 1: Lab Architecture*
+
+![Network Diagram](https://github.com/user-attachments/assets/d125054c-0255-4018-97e0-1d2737bb9873)
+
+*Ref 2: Network Diagram*
+
+
